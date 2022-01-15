@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Fitbuzz</string>
+    <string name="pose">\n\n
+
+                         1. Lie flat on your stomach. Keep your chin on the mat and your hands at your sides. Your hands should be palm up.\n\n
+
+                         2. Exhale while you bend your knees. Bring your heels as close as you can to your buttocks. Your knees should be hip-width apart.\n\n
+
+                         3. Lift your hands and take hold of your ankles. Be sure to grab the ankle and not the top part of the feet. Your fingers should wrap around the ankles, but your thumb does not. Keep your toes pointed.\n\n
+    </string>
+
+    <string-array name="title_story">
+        <item>Build More Muscle</item>
+        <item>Replace Coffee with Matcha Green Tea</item>
+        <item>Just Keep Moving</item>
+        <item>Stop Counting Calories</item>
+        <item>Pick Up a Kettlebell</item>
+        <item>Do Yoga</item>
+        <item>Get Intense</item>
+        <item>Stop Sleeping In</item>
+        <item>Make One Meal a Day Vegan</item>
+        <item>Go Green</item>
+    </string-array>
+
+
+    <string-array name="details_story">
+        <item>Build More Muscle:- \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.
+        </item>
+
+        <item>Replace Coffee with Matcha Green Tea:- \n\n   Green tea does more than just keep you alert,
+            it may also help boost brain function.
+            The key active ingredient is caffeine, which is a known stimulant.
+            It doesn’t contain as much as coffee, but enough to produce a response without causing the jittery effects associated with taking in too much caffeine.
+            Caffeine affects the brain by blocking an inhibitory neurotransmitter called adenosine.
+            This way, it increases the firing of neurons and the concentration of neurotransmitters like dopamine and norepinephrine (4Trusted Source, 5Trusted Source).
+        </item>
+        <item>Just Keep Moving:-     \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.      </item>
+        <item>Stop Counting Calories:-      \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.</item>
+        <item>Pick Up a Kettlebell:-      \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.</item>
+        <item>Do Yoga:-     \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.</item>
+        <item>Get Intense:-       \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.</item>
+        <item>Stop Sleeping In:-      \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.</item>
+        <item>Make One Meal a Day Vegan:-     \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.</item>
+        <item>Go Green:-      \n\n Building muscle requires a positive energy balance, which means that you must take in more calories than you burn.
+            You need roughly 2,800 calories to build a pound of muscle, largely to support protein turnover, which can be elevated with training.
+            By following these eight tips, you’ll be able to build muscle mass more efficiently and quickly.</item>
+    </string-array>
+</resources>
